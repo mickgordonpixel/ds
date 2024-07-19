@@ -1,8 +1,5 @@
 {
   "tokenSetOrder": [
-    "global",
-    "alias/xtreme",
-    "mapped/light",
-    "mapped/dark"
+    "brand/space"
   ]
 }
