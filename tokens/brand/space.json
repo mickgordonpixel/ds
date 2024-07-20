@@ -1790,7 +1790,7 @@
         "type": "color"
       }
     },
-    "deepSpace dark": {
+    "deepSpace light": {
       "deepspace-1": {
         "value": "#FDFDFF",
         "type": "color"
@@ -1837,6 +1837,106 @@
       },
       "deepspace-12": {
         "value": "#301C72",
+        "type": "color"
+      }
+    },
+    "deepSun light": {
+      "deepspace-1": {
+        "value": "#FEFDFA",
+        "type": "color"
+      },
+      "deepspace-2": {
+        "value": "#FFFBE8",
+        "type": "color"
+      },
+      "deepspace-3": {
+        "value": "#FFF5CD",
+        "type": "color"
+      },
+      "deepspace-4": {
+        "value": "#FFECA8",
+        "type": "color"
+      },
+      "deepspace-5": {
+        "value": "#FFE277",
+        "type": "color"
+      },
+      "deepspace-6": {
+        "value": "#F8D46B",
+        "type": "color"
+      },
+      "deepspace-7": {
+        "value": "#E6C462",
+        "type": "color"
+      },
+      "deepspace-8": {
+        "value": "#D3AD30",
+        "type": "color"
+      },
+      "deepspace-9": {
+        "value": "#FFD200",
+        "type": "color"
+      },
+      "deepspace-10": {
+        "value": "#FBC900",
+        "type": "color"
+      },
+      "deepspace-11": {
+        "value": "#937300",
+        "type": "color"
+      },
+      "deepspace-12": {
+        "value": "#453B1E",
+        "type": "color"
+      }
+    },
+    "deepSun": {
+      "deepspace-1": {
+        "value": "#13110B",
+        "type": "color"
+      },
+      "deepspace-2": {
+        "value": "#1B180F",
+        "type": "color"
+      },
+      "deepspace-3": {
+        "value": "#2B2206",
+        "type": "color"
+      },
+      "deepspace-4": {
+        "value": "#3A2A00",
+        "type": "color"
+      },
+      "deepspace-5": {
+        "value": "#463400",
+        "type": "color"
+      },
+      "deepspace-6": {
+        "value": "#544200",
+        "type": "color"
+      },
+      "deepspace-7": {
+        "value": "#675414",
+        "type": "color"
+      },
+      "deepspace-8": {
+        "value": "#836B1D",
+        "type": "color"
+      },
+      "deepspace-9": {
+        "value": "#FFCD00",
+        "type": "color"
+      },
+      "deepspace-10": {
+        "value": "#F5C300",
+        "type": "color"
+      },
+      "deepspace-11": {
+        "value": "#FFCF0D",
+        "type": "color"
+      },
+      "deepspace-12": {
+        "value": "#FCE9B2",
         "type": "color"
       }
     }
@@ -1894,6 +1994,10 @@
       "value": "6",
       "type": "spacing"
     },
+    "8px": {
+      "value": "8",
+      "type": "spacing"
+    },
     "12px": {
       "value": "12",
       "type": "spacing"
@@ -1928,6 +2032,10 @@
     },
     "80px": {
       "value": "80",
+      "type": "spacing"
+    },
+    "96px": {
+      "value": "96",
       "type": "spacing"
     }
   },

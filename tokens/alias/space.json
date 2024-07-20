@@ -540,5 +540,89 @@
         }
       }
     }
+  },
+  "spacing-50": {
+    "value": "{spacing.2px}",
+    "type": "spacing"
+  },
+  "spacing-75": {
+    "value": "{spacing.4px}",
+    "type": "spacing"
+  },
+  "spacing-100": {
+    "value": "{spacing.8px}",
+    "type": "spacing"
+  },
+  "spacing-200": {
+    "value": "{spacing.12px}",
+    "type": "spacing"
+  },
+  "spacing-300": {
+    "value": "{spacing.16px}",
+    "type": "spacing"
+  },
+  "spacing-400": {
+    "value": "{spacing.24px}",
+    "type": "spacing"
+  },
+  "spacing-500": {
+    "value": "{spacing.32px}",
+    "type": "spacing"
+  },
+  "spacing-600": {
+    "value": "{spacing.40px}",
+    "type": "spacing"
+  },
+  "spacing-700": {
+    "value": "{spacing.48px}",
+    "type": "spacing"
+  },
+  "spacing-800": {
+    "value": "{spacing.64px}",
+    "type": "spacing"
+  },
+  "spacing-900": {
+    "value": "{spacing.80px}",
+    "type": "spacing"
+  },
+  "spacing-1000": {
+    "value": "{spacing.96px}",
+    "type": "spacing"
+  },
+  "rounded-none": {
+    "value": "{0}",
+    "type": "borderRadius"
+  },
+  "rounded-sm": {
+    "value": "{2px}",
+    "type": "borderRadius"
+  },
+  "rounded": {
+    "value": "{4px}",
+    "type": "borderRadius"
+  },
+  "rounded-md": {
+    "value": "{6px}",
+    "type": "borderRadius"
+  },
+  "rounded-lg": {
+    "value": "{8px}",
+    "type": "borderRadius"
+  },
+  "rounded-xl": {
+    "value": "{12px}",
+    "type": "borderRadius"
+  },
+  "rounded-2xl": {
+    "value": "{16px}",
+    "type": "borderRadius"
+  },
+  "rounded-3xl": {
+    "value": "{24px}",
+    "type": "borderRadius"
+  },
+  "rounded-full": {
+    "value": "{9999px}",
+    "type": "borderRadius"
   }
 }

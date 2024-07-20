@@ -540,5 +540,53 @@
         }
       }
     }
+  },
+  "spacing-50": {
+    "value": "{spacing.2px}",
+    "type": "spacing"
+  },
+  "spacing-75": {
+    "value": "{spacing.4px}",
+    "type": "spacing"
+  },
+  "spacing-100": {
+    "value": "{spacing.8px}",
+    "type": "spacing"
+  },
+  "spacing-200": {
+    "value": "{spacing.12px}",
+    "type": "spacing"
+  },
+  "spacing-300": {
+    "value": "{spacing.16px}",
+    "type": "spacing"
+  },
+  "spacing-400": {
+    "value": "{spacing.24px}",
+    "type": "spacing"
+  },
+  "spacing-500": {
+    "value": "{spacing.32px}",
+    "type": "spacing"
+  },
+  "spacing-600": {
+    "value": "{spacing.40px}",
+    "type": "spacing"
+  },
+  "spacing-700": {
+    "value": "{spacing.48px}",
+    "type": "spacing"
+  },
+  "spacing-800": {
+    "value": "{spacing.64px}",
+    "type": "spacing"
+  },
+  "spacing-900": {
+    "value": "{spacing.80px}",
+    "type": "spacing"
+  },
+  "spacing-1000": {
+    "value": "{spacing.96px}",
+    "type": "spacing"
   }
 }
