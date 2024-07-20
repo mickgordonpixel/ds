@@ -2040,12 +2040,20 @@
     }
   },
   "borderWidth": {
-    "05px": {
+    "0": {
+      "value": "0",
+      "type": "borderWidth"
+    },
+    "0,5px": {
       "value": "0.5",
       "type": "borderWidth"
     },
     "1px": {
       "value": "1",
+      "type": "borderWidth"
+    },
+    "1,5px": {
+      "value": "1.5",
       "type": "borderWidth"
     },
     "2px": {
