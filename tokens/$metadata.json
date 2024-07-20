@@ -1,5 +1,9 @@
 {
   "tokenSetOrder": [
-    "brand/space"
+    "brand/space",
+    "alias/space",
+    "alias/xtreme",
+    "mapped/spacecasino-light",
+    "mapped/spacecasino-dark"
   ]
 }

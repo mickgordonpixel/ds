@@ -1,0 +1,544 @@
+{
+  "theme": {
+    "background": {
+      "page": {
+        "background": {
+          "value": "#",
+          "type": "color"
+        }
+      },
+      "accent": {
+        "normal": {
+          "value": "#",
+          "type": "color"
+        },
+        "hover": {
+          "value": "#",
+          "type": "color"
+        },
+        "subtle": {
+          "value": "#",
+          "type": "color"
+        },
+        "subtle hover": {
+          "value": "#",
+          "type": "color"
+        },
+        "focus": {
+          "value": "#",
+          "type": "color"
+        },
+        "active": {
+          "value": "#",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "#",
+          "type": "color"
+        },
+        "muted": {
+          "value": "#",
+          "type": "color"
+        }
+      },
+      "surface": {
+        "raised": {
+          "value": "#",
+          "type": "color"
+        },
+        "bold": {
+          "value": "#",
+          "type": "color"
+        },
+        "strong": {
+          "value": "#",
+          "type": "color"
+        },
+        "subtle": {
+          "value": "#",
+          "type": "color"
+        }
+      },
+      "primary": {
+        "normal": {
+          "value": "#",
+          "type": "color"
+        },
+        "hover": {
+          "value": "#",
+          "type": "color"
+        },
+        "subtle": {
+          "value": "#",
+          "type": "color"
+        },
+        "subtle hover": {
+          "value": "#",
+          "type": "color"
+        },
+        "focus": {
+          "value": "#",
+          "type": "color"
+        },
+        "active": {
+          "value": "#",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "#",
+          "type": "color"
+        },
+        "muted": {
+          "value": "#",
+          "type": "color"
+        }
+      },
+      "secondary": {
+        "normal": {
+          "value": "#",
+          "type": "color"
+        },
+        "hover": {
+          "value": "#",
+          "type": "color"
+        },
+        "subtle": {
+          "value": "#",
+          "type": "color"
+        },
+        "subtle hover": {
+          "value": "#",
+          "type": "color"
+        },
+        "focus": {
+          "value": "#",
+          "type": "color"
+        },
+        "active": {
+          "value": "#",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "#",
+          "type": "color"
+        },
+        "muted": {
+          "value": "#",
+          "type": "color"
+        }
+      },
+      "input": {
+        "normal": {
+          "value": "#",
+          "type": "color"
+        },
+        "hover": {
+          "value": "#",
+          "type": "color"
+        },
+        "focus": {
+          "value": "#",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "#",
+          "type": "color"
+        }
+      },
+      "success": {
+        "normal": {
+          "value": "#",
+          "type": "color"
+        },
+        "hover": {
+          "value": "#",
+          "type": "color"
+        },
+        "muted": {
+          "value": "#",
+          "type": "color"
+        }
+      },
+      "warning": {
+        "normal": {
+          "value": "#",
+          "type": "color"
+        },
+        "hover": {
+          "value": "#",
+          "type": "color"
+        },
+        "muted": {
+          "value": "#",
+          "type": "color"
+        }
+      },
+      "error": {
+        "normal": {
+          "value": "#",
+          "type": "color"
+        },
+        "hover": {
+          "value": "#",
+          "type": "color"
+        },
+        "muted": {
+          "value": "#",
+          "type": "color"
+        }
+      },
+      "info": {
+        "normal": {
+          "value": "#",
+          "type": "color"
+        },
+        "hover": {
+          "value": "#",
+          "type": "color"
+        },
+        "muted": {
+          "value": "#",
+          "type": "color"
+        }
+      }
+    },
+    "border": {
+      "container": {
+        "value": "#",
+        "type": "color"
+      },
+      "hover": {
+        "value": "#",
+        "type": "color"
+      },
+      "subtle": {
+        "value": "#",
+        "type": "color"
+      },
+      "inactive": {
+        "value": "#",
+        "type": "color"
+      },
+      "input": {
+        "normal": {
+          "value": "#",
+          "type": "color"
+        },
+        "hover": {
+          "value": "#",
+          "type": "color"
+        },
+        "focus": {
+          "value": "#",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "#",
+          "type": "color"
+        }
+      },
+      "accent": {
+        "normal": {
+          "value": "#",
+          "type": "color"
+        },
+        "hover": {
+          "value": "#",
+          "type": "color"
+        },
+        "subtle": {
+          "value": "#",
+          "type": "color"
+        },
+        "subtle hover": {
+          "value": "#",
+          "type": "color"
+        },
+        "focus": {
+          "value": "#",
+          "type": "color"
+        },
+        "active": {
+          "value": "#",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "#",
+          "type": "color"
+        }
+      },
+      "primary": {
+        "normal": {
+          "value": "#",
+          "type": "color"
+        },
+        "hover": {
+          "value": "#",
+          "type": "color"
+        },
+        "subtle": {
+          "value": "#",
+          "type": "color"
+        },
+        "subtle hover": {
+          "value": "#",
+          "type": "color"
+        },
+        "focus": {
+          "value": "#",
+          "type": "color"
+        },
+        "active": {
+          "value": "#",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "#",
+          "type": "color"
+        }
+      },
+      "secondary": {
+        "normal": {
+          "value": "#",
+          "type": "color"
+        },
+        "hover": {
+          "value": "#",
+          "type": "color"
+        },
+        "subtle": {
+          "value": "#",
+          "type": "color"
+        },
+        "subtle hover": {
+          "value": "#",
+          "type": "color"
+        },
+        "focus": {
+          "value": "#",
+          "type": "color"
+        },
+        "active": {
+          "value": "#",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "#",
+          "type": "color"
+        }
+      },
+      "status": {
+        "success": {
+          "value": "#",
+          "type": "color"
+        },
+        "warning": {
+          "value": "#",
+          "type": "color"
+        },
+        "error": {
+          "value": "#",
+          "type": "color"
+        },
+        "info": {
+          "value": "#",
+          "type": "color"
+        }
+      }
+    },
+    "icon": {
+      "default": {
+        "value": "#",
+        "type": "color"
+      },
+      "muted": {
+        "value": "#",
+        "type": "color"
+      },
+      "inactive": {
+        "value": "#",
+        "type": "color"
+      },
+      "neutral": {
+        "value": "#",
+        "type": "color"
+      },
+      "on subtle": {
+        "value": "#",
+        "type": "color"
+      },
+      "on invert": {
+        "value": "#",
+        "type": "color"
+      },
+      "on image": {
+        "value": "#",
+        "type": "color"
+      },
+      "on input": {
+        "value": "#",
+        "type": "color"
+      },
+      "on accent": {
+        "value": "#",
+        "type": "color"
+      },
+      "success": {
+        "value": "#",
+        "type": "color"
+      },
+      "warning": {
+        "value": "#",
+        "type": "color"
+      },
+      "error": {
+        "value": "#",
+        "type": "color"
+      },
+      "focus": {
+        "value": "#",
+        "type": "color"
+      },
+      "accent": {
+        "normal": {
+          "value": "#",
+          "type": "color"
+        },
+        "hover": {
+          "value": "#",
+          "type": "color"
+        },
+        "focus": {
+          "value": "#",
+          "type": "color"
+        },
+        "active": {
+          "value": "#",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "#",
+          "type": "color"
+        }
+      },
+      "primary": {
+        "normal": {
+          "value": "#",
+          "type": "color"
+        },
+        "hover": {
+          "value": "#",
+          "type": "color"
+        },
+        "focus": {
+          "value": "#",
+          "type": "color"
+        },
+        "active": {
+          "value": "#",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "#",
+          "type": "color"
+        }
+      },
+      "secondary": {
+        "normal": {
+          "value": "#",
+          "type": "color"
+        },
+        "hover": {
+          "value": "#",
+          "type": "color"
+        },
+        "focus": {
+          "value": "#",
+          "type": "color"
+        },
+        "active": {
+          "value": "#",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "#",
+          "type": "color"
+        }
+      }
+    },
+    "text": {
+      "body": {
+        "value": "#",
+        "type": "color"
+      },
+      "secondary": {
+        "value": "#",
+        "type": "color"
+      },
+      "subtle": {
+        "value": "#",
+        "type": "color"
+      },
+      "on subtle": {
+        "value": "#",
+        "type": "color"
+      },
+      "on image": {
+        "value": "#",
+        "type": "color"
+      },
+      "on invert": {
+        "value": "#",
+        "type": "color"
+      },
+      "muted": {
+        "value": "#",
+        "type": "color"
+      },
+      "inactive": {
+        "value": "#",
+        "type": "color"
+      },
+      "on accent": {
+        "value": "#",
+        "type": "color"
+      },
+      "on primary": {
+        "value": "#",
+        "type": "color"
+      },
+      "status": {
+        "success": {
+          "value": "#",
+          "type": "color"
+        },
+        "warning": {
+          "value": "#",
+          "type": "color"
+        },
+        "error": {
+          "value": "#",
+          "type": "color"
+        },
+        "info": {
+          "value": "#",
+          "type": "color"
+        }
+      },
+      "input": {
+        "normal": {
+          "value": "#",
+          "type": "color"
+        },
+        "hover": {
+          "value": "#",
+          "type": "color"
+        },
+        "focus": {
+          "value": "#",
+          "type": "color"
+        }
+      }
+    }
+  }
+}
