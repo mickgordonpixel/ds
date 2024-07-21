@@ -652,5 +652,9 @@
   "border-400": {
     "value": "{borderWidth.4px}",
     "type": "borderWidth"
+  },
+  "font-family": {
+    "value": "GT Walsheim Pro",
+    "type": "fontFamilies"
   }
 }
