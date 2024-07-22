@@ -123,12 +123,6 @@
       "type": "fontSizes"
     }
   },
-  "paragraphSpacing": {
-    "0": {
-      "value": "0",
-      "type": "paragraphSpacing"
-    }
-  },
   "letterspacing": {
     "0": {
       "value": "0%",

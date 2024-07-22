@@ -131,15 +131,25 @@
       "type": "fontSizes"
     }
   },
-  "paragraphSpacing": {
-    "0": {
-      "value": "0",
-      "type": "paragraphSpacing"
-    }
-  },
   "letterspacing": {
     "0": {
-      "value": "0",
+      "value": "0%",
+      "type": "letterSpacing"
+    },
+    "neg2": {
+      "value": "-2%",
+      "type": "letterSpacing"
+    },
+    "neg1": {
+      "value": "-1%",
+      "type": "letterSpacing"
+    },
+    "pt2": {
+      "value": "0.2%",
+      "type": "letterSpacing"
+    },
+    "pt5": {
+      "value": "0.5%",
       "type": "letterSpacing"
     }
   }
