@@ -152,5 +152,73 @@
       "value": "0.5%",
       "type": "letterSpacing"
     }
+  },
+  "content": {
+    "2xs": {
+      "value": "{spacing.2px}",
+      "type": "spacing"
+    },
+    "xs": {
+      "value": "{spacing.4px}",
+      "type": "spacing"
+    },
+    "sm": {
+      "value": "{spacing.8px}",
+      "type": "spacing"
+    },
+    "md": {
+      "value": "{spacing.12px}",
+      "type": "spacing"
+    },
+    "lg": {
+      "value": "{spacing.16px}",
+      "type": "spacing"
+    },
+    "xl": {
+      "value": "{spacing.24px}",
+      "type": "spacing"
+    },
+    "2xl": {
+      "value": "{spacing.32px}",
+      "type": "spacing"
+    },
+    "3xl": {
+      "value": "{spacing.40px}",
+      "type": "spacing"
+    },
+    "4xl": {
+      "value": "{spacing.48px}",
+      "type": "spacing"
+    }
+  },
+  "layout": {
+    "2xs": {
+      "value": "{spacing.16px}",
+      "type": "spacing"
+    },
+    "xs": {
+      "value": "{spacing.24px}",
+      "type": "spacing"
+    },
+    "sm": {
+      "value": "{spacing.32px}",
+      "type": "spacing"
+    },
+    "md": {
+      "value": "{spacing.48px}",
+      "type": "spacing"
+    },
+    "lg": {
+      "value": "{spacing.64px}",
+      "type": "spacing"
+    },
+    "xl": {
+      "value": "{spacing.96px}",
+      "type": "spacing"
+    },
+    "2x": {
+      "value": "{spacing.160px}",
+      "type": "spacing"
+    }
   }
 }

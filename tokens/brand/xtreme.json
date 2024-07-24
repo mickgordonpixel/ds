@@ -2039,10 +2039,6 @@
     "96px": {
       "value": "96",
       "type": "spacing"
-    },
-    "160px": {
-      "value": "160",
-      "type": "spacing"
     }
   },
   "borderWidth": {

@@ -639,7 +639,7 @@
       "type": "sizing"
     }
   },
-  "layout": {
+  "spacing": {
     "spacing-01": {
       "value": "{spacing.2px}",
       "type": "spacing"
@@ -696,11 +696,5 @@
   "Medium": {
     "value": "{fontWeights.medium}",
     "type": "fontWeights"
-  },
-  "content": {
-    "sm": {
-      "value": "{spacing.2px}",
-      "type": "spacing"
-    }
   }
 }
