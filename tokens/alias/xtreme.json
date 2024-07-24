@@ -606,7 +606,7 @@
     "type": "borderWidth"
   },
   "GT Walsheim Pro": {
-    "value": "{fontFamilies.gt-walsheim-pro}",
+    "value": "{fontFamilies.gtWalsheimPro}",
     "type": "fontFamilies"
   },
   "sizing": {

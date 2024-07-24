@@ -45,10 +45,6 @@
     "68px": {
       "value": "68",
       "type": "lineHeights"
-    },
-    "0%": {
-      "value": "-2%",
-      "type": "lineHeights"
     }
   },
   "fontWeights": {
@@ -120,6 +116,10 @@
     },
     "40px": {
       "value": "40",
+      "type": "fontSizes"
+    },
+    "44px": {
+      "value": "44",
       "type": "fontSizes"
     },
     "52px": {
