@@ -6,7 +6,9 @@
     "selectedTokenSets": {
       "alias/xtreme": "enabled",
       "typographyAlias/xtreme": "source",
-      "brandCore/CoreXtreme": "source"
+      "brandCore/CoreXtreme": "source",
+      "mapped/space-light": "disabled",
+      "mapped/space-dark": "disabled"
     },
     "group": "BrandCore",
     "$figmaCollectionId": "VariableCollectionId:696:349",
@@ -183,7 +185,9 @@
     "selectedTokenSets": {
       "typographyAlias/spacecasino": "source",
       "alias/spacecasino": "enabled",
-      "brandCore/CoreXtreme": "source"
+      "brandCore/CoreXtreme": "source",
+      "mapped/space-light": "disabled",
+      "mapped/space-dark": "disabled"
     },
     "group": "BrandCore",
     "$figmaCollectionId": "VariableCollectionId:696:349",
@@ -329,7 +333,6 @@
       "spacing.layout.md": "d1215eb097ee97307fab46745f1e46e3cf668aa8",
       "spacing.layout.lg": "da15068e479202b56e16b895289e2215d2156701",
       "spacing.layout.xl": "0ead986e4c4db5bffa55789b9c1ded4164dd079b",
-      "spacing.layout.2x": "13715bc219b22dae295e49f22547f78c15f40570",
       "radius.rounded-none": "418e394747f2c94c9684aa4676b1623b86165d71",
       "radius.rounded-sm": "c46d87e3478a08abde5ecb38223389666b333088",
       "radius.rounded": "54330986fe48c41e92b737a989db8afd6ebb43fa",
@@ -350,7 +353,8 @@
       "theme.border.muted": "5321c89bdf89a5b024cbe2722df9383596f07369",
       "theme.border.accent.emphasis": "63e31cb281c9f8c695a51becba47386a91ca944d",
       "theme.border.primary.emphasis": "4c96915746330e546b6abc8fcfda3b45bb2602d1",
-      "theme.border.secondary.emphasis": "961814326f47ff3de8cfc556c5ab241820903058"
+      "theme.border.secondary.emphasis": "961814326f47ff3de8cfc556c5ab241820903058",
+      "spacing.layout.2xl": "13715bc219b22dae295e49f22547f78c15f40570"
     }
   },
   {
@@ -361,7 +365,9 @@
       "typographyAlias/xtreme": "source",
       "alias/xtreme": "enabled",
       "mapped/xtreme-dark": "enabled",
-      "brandCore/CoreXtreme": "source"
+      "brandCore/CoreXtreme": "source",
+      "mapped/space-light": "disabled",
+      "mapped/space-dark": "disabled"
     },
     "group": "mapped"
   },
@@ -373,7 +379,9 @@
       "brandCore/CoreXtreme": "source",
       "typographyAlias/xtreme": "source",
       "alias/xtreme": "enabled",
-      "mapped/xtreme-light": "enabled"
+      "mapped/xtreme-light": "enabled",
+      "mapped/space-light": "disabled",
+      "mapped/space-dark": "disabled"
     },
     "group": "mapped"
   }

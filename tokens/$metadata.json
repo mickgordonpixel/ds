@@ -8,6 +8,8 @@
     "alias/spacecasino",
     "alias/xtreme",
     "mapped/xtreme-dark",
-    "mapped/xtreme-light"
+    "mapped/xtreme-light",
+    "mapped/space-light",
+    "mapped/space-dark"
   ]
 }
