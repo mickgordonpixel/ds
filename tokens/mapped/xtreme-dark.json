@@ -13,49 +13,53 @@
           "type": "color"
         },
         "hover": {
-          "value": "#",
+          "value": "{Colors.xtreme.xtreme-10}",
           "type": "color"
         },
         "subtle": {
-          "value": "#",
+          "value": "{Colors.xtreme.xtreme-7}",
           "type": "color"
         },
         "subtle hover": {
-          "value": "#",
+          "value": "{Colors.xtreme.xtreme-8}",
           "type": "color"
         },
         "focus": {
-          "value": "#",
+          "value": "{Colors.xtreme.xtreme-9}",
           "type": "color"
         },
         "active": {
-          "value": "#",
+          "value": "{Colors.xtreme.xtreme-10}",
           "type": "color"
         },
         "disabled": {
-          "value": "#",
+          "value": "{Colors.xtreme.xtreme-5}",
           "type": "color"
         },
         "muted": {
-          "value": "#",
+          "value": "{Colors.xtreme.xtreme-4}",
           "type": "color"
         }
       },
       "surface": {
-        "raised": {
+        "normal": {
           "value": "{Colors.xgray.xgray-2}",
           "type": "color"
         },
+        "raised": {
+          "value": "{Colors.xgray.xgray-4}",
+          "type": "color"
+        },
         "bold": {
-          "value": "#",
+          "value": "{Colors.xgray.xgray-5}",
           "type": "color"
         },
         "strong": {
-          "value": "#",
+          "value": "{Colors.xgray.xgray-2}",
           "type": "color"
         },
         "subtle": {
-          "value": "{Colors.xgray.xgray-1}",
+          "value": "{Colors.xgray.xgray-3}",
           "type": "color"
         }
       },
@@ -129,7 +133,7 @@
       },
       "input": {
         "normal": {
-          "value": "#",
+          "value": "{Colors.xgray.xgray-1}",
           "type": "color"
         },
         "hover": {
@@ -203,33 +207,25 @@
       }
     },
     "border": {
-      "container": {
-        "value": "#",
+      "default": {
+        "value": "{Colors.xgray.xgray-6}",
         "type": "color"
       },
-      "hover": {
-        "value": "#",
-        "type": "color"
-      },
-      "subtle": {
-        "value": "#",
-        "type": "color"
-      },
-      "inactive": {
-        "value": "#",
+      "muted": {
+        "value": "{Colors.xgray.xgray-4}",
         "type": "color"
       },
       "input": {
         "normal": {
-          "value": "#",
+          "value": "{Colors.xgray.xgray-6}",
           "type": "color"
         },
         "hover": {
-          "value": "#",
+          "value": "{Colors.xgray.xgray-7}",
           "type": "color"
         },
         "focus": {
-          "value": "#",
+          "value": "{Colors.xgray.xgray-8}",
           "type": "color"
         },
         "disabled": {
@@ -242,27 +238,7 @@
           "value": "#",
           "type": "color"
         },
-        "hover": {
-          "value": "#",
-          "type": "color"
-        },
-        "subtle": {
-          "value": "#",
-          "type": "color"
-        },
-        "subtle hover": {
-          "value": "#",
-          "type": "color"
-        },
-        "focus": {
-          "value": "#",
-          "type": "color"
-        },
-        "active": {
-          "value": "#",
-          "type": "color"
-        },
-        "disabled": {
+        "emphasis": {
           "value": "#",
           "type": "color"
         }
@@ -272,27 +248,7 @@
           "value": "#",
           "type": "color"
         },
-        "hover": {
-          "value": "#",
-          "type": "color"
-        },
-        "subtle": {
-          "value": "#",
-          "type": "color"
-        },
-        "subtle hover": {
-          "value": "#",
-          "type": "color"
-        },
-        "focus": {
-          "value": "#",
-          "type": "color"
-        },
-        "active": {
-          "value": "#",
-          "type": "color"
-        },
-        "disabled": {
+        "emphasis": {
           "value": "#",
           "type": "color"
         }
@@ -302,27 +258,7 @@
           "value": "#",
           "type": "color"
         },
-        "hover": {
-          "value": "#",
-          "type": "color"
-        },
-        "subtle": {
-          "value": "#",
-          "type": "color"
-        },
-        "subtle hover": {
-          "value": "#",
-          "type": "color"
-        },
-        "focus": {
-          "value": "#",
-          "type": "color"
-        },
-        "active": {
-          "value": "#",
-          "type": "color"
-        },
-        "disabled": {
+        "emphasis": {
           "value": "#",
           "type": "color"
         }
@@ -348,11 +284,11 @@
     },
     "icon": {
       "default": {
-        "value": "{Colors.xgray.xgray-9}",
+        "value": "{Colors.xgray.xgray-11}",
         "type": "color"
       },
       "muted": {
-        "value": "#",
+        "value": "{Colors.xgray.xgray-6}",
         "type": "color"
       },
       "inactive": {
@@ -360,7 +296,7 @@
         "type": "color"
       },
       "neutral": {
-        "value": "#",
+        "value": "{Colors.xgray.xgray-10}",
         "type": "color"
       },
       "on subtle": {
@@ -468,15 +404,15 @@
     },
     "text": {
       "body": {
-        "value": "{Colors.deepSpace light.deepspace-1}",
+        "value": "{Colors.xgray.xgray-12}",
         "type": "color"
       },
       "secondary": {
-        "value": "#",
+        "value": "{Colors.xgray.xgray-11}",
         "type": "color"
       },
       "subtle": {
-        "value": "#",
+        "value": "{Colors.xgray.xgray-10}",
         "type": "color"
       },
       "on subtle": {
@@ -484,15 +420,15 @@
         "type": "color"
       },
       "on image": {
-        "value": "#",
+        "value": "{Colors.xgray.xgray-12}",
         "type": "color"
       },
       "on invert": {
-        "value": "#",
+        "value": "{Colors.xgray.xgray-1}",
         "type": "color"
       },
       "muted": {
-        "value": "#",
+        "value": "{Colors.xgray.xgray-8}",
         "type": "color"
       },
       "inactive": {
@@ -505,6 +441,10 @@
       },
       "on primary": {
         "value": "#",
+        "type": "color"
+      },
+      "accent": {
+        "value": "{Colors.xtreme.xtreme-9}",
         "type": "color"
       },
       "status": {

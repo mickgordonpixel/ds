@@ -2039,6 +2039,10 @@
     "96px": {
       "value": "96",
       "type": "spacing"
+    },
+    "160px": {
+      "value": "160",
+      "type": "spacing"
     }
   },
   "borderWidth": {
@@ -2242,7 +2246,7 @@
       "value": "Inter",
       "type": "fontFamilies"
     },
-    "gt-walsheim-pro": {
+    "gtWalsheimPro": {
       "value": "GT Walsheim Pro",
       "type": "fontFamilies"
     },

@@ -1,7 +1,7 @@
 {
   "fontFamilies": {
-    "Noto Sans JP": {
-      "value": "Noto Sans JP",
+    "notosansjp": {
+      "value": "{fontFamilies.noto-sans-jp}",
       "type": "fontFamilies"
     }
   },
@@ -44,6 +44,10 @@
     },
     "68px": {
       "value": "68",
+      "type": "lineHeights"
+    },
+    "18px": {
+      "value": "18",
       "type": "lineHeights"
     }
   },
@@ -120,6 +124,10 @@
     },
     "64px": {
       "value": "64",
+      "type": "fontSizes"
+    },
+    "44px": {
+      "value": "44",
       "type": "fontSizes"
     }
   },
