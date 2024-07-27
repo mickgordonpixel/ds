@@ -9,11 +9,11 @@
       },
       "accent": {
         "normal": {
-          "value": "{Colors.spacesun light.deepspace-9}",
+          "value": "{Colors.spacesun light.spacesun-9}",
           "type": "color"
         },
         "hover": {
-          "value": "{Colors.spacesun light.deepspace-11}",
+          "value": "{Colors.spacesun light.spacesun-10}",
           "type": "color"
         },
         "subtle": {
@@ -33,11 +33,15 @@
           "type": "color"
         },
         "disabled": {
-          "value": "{Colors.spacesun light.deepspace-4}",
+          "value": "{Colors.gray light.gray light-7}",
           "type": "color"
         },
         "muted": {
           "value": "#",
+          "type": "color"
+        },
+        "pressed": {
+          "value": "{Colors.spacesun light.spacesun-11}",
           "type": "color"
         }
       },
@@ -243,7 +247,7 @@
           "type": "color"
         },
         "emphasis": {
-          "value": "{Colors.spacesun light.deepspace-11}",
+          "value": "{Colors.spacesun light.spacesun-12}",
           "type": "color"
         },
         "disabled": {
@@ -420,7 +424,7 @@
     },
     "text": {
       "body": {
-        "value": "{Colors.spacepurple light.deepspace-1}",
+        "value": "{Colors.gray light.gray light-12}",
         "type": "color"
       },
       "secondary": {
@@ -457,6 +461,10 @@
       },
       "on primary": {
         "value": "#",
+        "type": "color"
+      },
+      "disabled": {
+        "value": "{Colors.gray light.gray light-9}",
         "type": "color"
       },
       "status": {
