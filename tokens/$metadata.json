@@ -1,8 +1,15 @@
 {
   "tokenSetOrder": [
-    "global",
+    "brandCore/CoreSpacecasino",
+    "brandCore/CoreXtreme",
+    "typographyAlias/baseFontFamily",
+    "typographyAlias/xtreme",
+    "typographyAlias/spacecasino",
+    "alias/spacecasino",
     "alias/xtreme",
-    "mapped/light",
-    "mapped/dark"
+    "mapped/xtreme-dark",
+    "mapped/xtreme-light",
+    "mapped/space-light",
+    "mapped/space-dark"
   ]
 }

@@ -1,0 +1,156 @@
+{
+  "fontFamilies": {
+    "notosansjp": {
+      "value": "{fontFamilies.noto-sans-jp}",
+      "type": "fontFamilies"
+    }
+  },
+  "lineHeights": {
+    "16px": {
+      "value": "16",
+      "type": "lineHeights"
+    },
+    "20px": {
+      "value": "20",
+      "type": "lineHeights"
+    },
+    "24px": {
+      "value": "24",
+      "type": "lineHeights"
+    },
+    "28px": {
+      "value": "28",
+      "type": "lineHeights"
+    },
+    "32px": {
+      "value": "32",
+      "type": "lineHeights"
+    },
+    "36px": {
+      "value": "36",
+      "type": "lineHeights"
+    },
+    "40px": {
+      "value": "40",
+      "type": "lineHeights"
+    },
+    "48px": {
+      "value": "48",
+      "type": "lineHeights"
+    },
+    "56px": {
+      "value": "56",
+      "type": "lineHeights"
+    },
+    "68px": {
+      "value": "68",
+      "type": "lineHeights"
+    },
+    "18px": {
+      "value": "18",
+      "type": "lineHeights"
+    }
+  },
+  "fontWeights": {
+    "notosansjp-thin": {
+      "value": "Thin",
+      "type": "fontWeights"
+    },
+    "notosansjp-extralight": {
+      "value": "Light",
+      "type": "fontWeights"
+    },
+    "notosansjp-light": {
+      "value": "DemiLight",
+      "type": "fontWeights"
+    },
+    "notosansjp-regular": {
+      "value": "Regular",
+      "type": "fontWeights"
+    },
+    "notosansjp-medium": {
+      "value": "Medium",
+      "type": "fontWeights"
+    },
+    "notosansjp-semibold": {
+      "value": "Bold",
+      "type": "fontWeights"
+    },
+    "notosanjp-bold": {
+      "value": "Black",
+      "type": "fontWeights"
+    }
+  },
+  "fontSize": {
+    "12px": {
+      "value": "12",
+      "type": "fontSizes"
+    },
+    "14px": {
+      "value": "14",
+      "type": "fontSizes"
+    },
+    "16px": {
+      "value": "16",
+      "type": "fontSizes"
+    },
+    "18px": {
+      "value": "18",
+      "type": "fontSizes"
+    },
+    "20px": {
+      "value": "20",
+      "type": "fontSizes"
+    },
+    "24px": {
+      "value": "24",
+      "type": "fontSizes"
+    },
+    "28px": {
+      "value": "28",
+      "type": "fontSizes"
+    },
+    "32px": {
+      "value": "32",
+      "type": "fontSizes"
+    },
+    "40px": {
+      "value": "40",
+      "type": "fontSizes"
+    },
+    "52px": {
+      "value": "52",
+      "type": "fontSizes"
+    },
+    "64px": {
+      "value": "64",
+      "type": "fontSizes"
+    },
+    "44px": {
+      "value": "44",
+      "type": "fontSizes"
+    }
+  },
+  "letterspacing": {
+    "0": {
+      "value": "0%",
+      "type": "letterSpacing"
+    },
+    "neg2": {
+      "value": "-2%",
+      "type": "letterSpacing"
+    },
+    "neg1": {
+      "value": "-1%",
+      "type": "letterSpacing"
+    },
+    "pt2": {
+      "value": "0.2%",
+      "type": "letterSpacing"
+    },
+    "pt5": {
+      "value": "0.5%",
+      "type": "letterSpacing"
+    }
+  }
+}
