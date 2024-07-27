@@ -84,7 +84,6 @@
       "theme.border.status.info": "6a418d54d6d076a14c562fbb95f05289b7aa5e27",
       "theme.icon.default": "c5259f1a3a2204b665cb7db2586b0d2065bfefb8",
       "theme.icon.muted": "613df587cb50357cd9aaa1da8feb9be524083eb8",
-      "theme.icon.inactive": "e9b899ba560c4db9a24cbcbdccd64784900f0b29",
       "theme.icon.neutral": "9950a68d6d871043ed9ec4a9e481a6ed528bb79c",
       "theme.icon.on subtle": "4d188e768112451d94ecad1c742b5c3e41a5792d",
       "theme.icon.on invert": "57d069c93253469fc1fb875022d2c0c99a84c10a",
@@ -171,7 +170,8 @@
       "theme.border.accent.emphasis": "822fdf6315ee7205d47c575819d90f31cbd891a4",
       "theme.border.primary.emphasis": "4c96915746330e546b6abc8fcfda3b45bb2602d1",
       "theme.border.secondary.emphasis": "8650ea77535774319f55140bb6215d4be6ebe48d",
-      "theme.background.accent.pressed": "96094defcab206b7ab93232c170bb8b953629b9a"
+      "theme.background.accent.pressed": "96094defcab206b7ab93232c170bb8b953629b9a",
+      "theme.icon.disabled": "e9b899ba560c4db9a24cbcbdccd64784900f0b29"
     }
   },
   {
@@ -247,7 +247,6 @@
       "theme.border.status.info": "6a418d54d6d076a14c562fbb95f05289b7aa5e27",
       "theme.icon.default": "c5259f1a3a2204b665cb7db2586b0d2065bfefb8",
       "theme.icon.muted": "613df587cb50357cd9aaa1da8feb9be524083eb8",
-      "theme.icon.inactive": "e9b899ba560c4db9a24cbcbdccd64784900f0b29",
       "theme.icon.neutral": "9950a68d6d871043ed9ec4a9e481a6ed528bb79c",
       "theme.icon.on subtle": "4d188e768112451d94ecad1c742b5c3e41a5792d",
       "theme.icon.on invert": "57d069c93253469fc1fb875022d2c0c99a84c10a",
@@ -334,7 +333,8 @@
       "theme.border.primary.emphasis": "4c96915746330e546b6abc8fcfda3b45bb2602d1",
       "theme.border.secondary.emphasis": "8650ea77535774319f55140bb6215d4be6ebe48d",
       "spacing.layout.2xl": "13715bc219b22dae295e49f22547f78c15f40570",
-      "theme.background.accent.pressed": "96094defcab206b7ab93232c170bb8b953629b9a"
+      "theme.background.accent.pressed": "96094defcab206b7ab93232c170bb8b953629b9a",
+      "theme.icon.disabled": "e9b899ba560c4db9a24cbcbdccd64784900f0b29"
     }
   },
   {
