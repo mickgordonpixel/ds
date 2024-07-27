@@ -6,10 +6,6 @@
     "typographyAlias/xtreme",
     "typographyAlias/spacecasino",
     "alias/spacecasino",
-    "alias/xtreme",
-    "mapped/xtreme-dark",
-    "mapped/xtreme-light",
-    "mapped/space-light",
-    "mapped/space-dark"
+    "alias/xtreme"
   ]
 }

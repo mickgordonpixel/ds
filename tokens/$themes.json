@@ -344,7 +344,6 @@
     "selectedTokenSets": {
       "typographyAlias/xtreme": "source",
       "alias/xtreme": "enabled",
-      "mapped/xtreme-dark": "enabled",
       "brandCore/CoreXtreme": "source"
     },
     "group": "mapped"
@@ -356,8 +355,7 @@
     "selectedTokenSets": {
       "brandCore/CoreXtreme": "source",
       "typographyAlias/xtreme": "source",
-      "alias/xtreme": "enabled",
-      "mapped/xtreme-light": "enabled"
+      "alias/xtreme": "enabled"
     },
     "group": "mapped"
   },
@@ -368,8 +366,7 @@
     "selectedTokenSets": {
       "brandCore/CoreSpacecasino": "source",
       "typographyAlias/spacecasino": "enabled",
-      "alias/spacecasino": "enabled",
-      "mapped/space-light": "enabled"
+      "alias/spacecasino": "enabled"
     },
     "group": "mapped"
   },
@@ -380,9 +377,19 @@
     "selectedTokenSets": {
       "brandCore/CoreSpacecasino": "source",
       "typographyAlias/spacecasino": "enabled",
-      "alias/spacecasino": "enabled",
-      "mapped/space-dark": "enabled"
+      "alias/spacecasino": "enabled"
     },
     "group": "mapped"
+  },
+  {
+    "id": "4b6969b9a226a5f1d29f7c45d70e688745e66ced",
+    "name": "spacecasino",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "brandCore/CoreSpacecasino": "source",
+      "typographyAlias/spacecasino": "enabled",
+      "alias/spacecasino": "enabled"
+    },
+    "group": "brand"
   }
 ]
