@@ -468,7 +468,7 @@
     },
     "text": {
       "body": {
-        "value": "{Colors.deepSpace light.deepspace-1}",
+        "value": "{Colors.spacepurple light.deepspace-1}",
         "type": "color"
       },
       "secondary": {

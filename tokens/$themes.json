@@ -338,50 +338,6 @@
     }
   },
   {
-    "id": "31b44c97e4b462242b1eee26414eaefc983d95f3",
-    "name": "xtreme-dark",
-    "$figmaStyleReferences": {},
-    "selectedTokenSets": {
-      "typographyAlias/xtreme": "source",
-      "alias/xtreme": "enabled",
-      "brandCore/CoreXtreme": "source"
-    },
-    "group": "mapped"
-  },
-  {
-    "id": "575b6b053ba230465a0de560c2350baf9bad7186",
-    "name": "xtreme-light",
-    "$figmaStyleReferences": {},
-    "selectedTokenSets": {
-      "brandCore/CoreXtreme": "source",
-      "typographyAlias/xtreme": "source",
-      "alias/xtreme": "enabled"
-    },
-    "group": "mapped"
-  },
-  {
-    "id": "850039243d4d841382e3cb8a463fdbcaa5adb69b",
-    "name": "space-light",
-    "$figmaStyleReferences": {},
-    "selectedTokenSets": {
-      "brandCore/CoreSpacecasino": "source",
-      "typographyAlias/spacecasino": "enabled",
-      "alias/spacecasino": "enabled"
-    },
-    "group": "mapped"
-  },
-  {
-    "id": "ec32bbc6c22d6e054cbe16b6c152350e73766e8a",
-    "name": "space-dark",
-    "$figmaStyleReferences": {},
-    "selectedTokenSets": {
-      "brandCore/CoreSpacecasino": "source",
-      "typographyAlias/spacecasino": "enabled",
-      "alias/spacecasino": "enabled"
-    },
-    "group": "mapped"
-  },
-  {
     "id": "4b6969b9a226a5f1d29f7c45d70e688745e66ced",
     "name": "spacecasino",
     "$figmaStyleReferences": {},
@@ -389,6 +345,17 @@
       "brandCore/CoreSpacecasino": "source",
       "typographyAlias/spacecasino": "enabled",
       "alias/spacecasino": "enabled"
+    },
+    "group": "brand"
+  },
+  {
+    "id": "66df81e205310095a630f995c7fa7d3ee540d696",
+    "name": "xtreme",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "brandCore/CoreXtreme": "source",
+      "typographyAlias/xtreme": "enabled",
+      "alias/xtreme": "enabled"
     },
     "group": "brand"
   }

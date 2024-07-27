@@ -1778,202 +1778,202 @@
         "description": ""
       }
     },
-    "deepSpace": {
-      "deepspace-1": {
+    "spacepurple": {
+      "spacepurple-1": {
         "value": "#100F1F",
         "type": "color"
       },
-      "deepspace-2": {
+      "spacepurple-2": {
         "value": "#16142A",
         "type": "color"
       },
-      "deepspace-3": {
+      "spacepurple-3": {
         "value": "#251B52",
         "type": "color"
       },
-      "deepspace-4": {
+      "spacepurple-4": {
         "value": "#311C73",
         "type": "color"
       },
-      "deepspace-5": {
+      "spacepurple-5": {
         "value": "#3A2583",
         "type": "color"
       },
-      "deepspace-6": {
+      "spacepurple-6": {
         "value": "#443192",
         "type": "color"
       },
-      "deepspace-7": {
+      "spacepurple-7": {
         "value": "#513DA9",
         "type": "color"
       },
-      "deepspace-8": {
+      "spacepurple-8": {
         "value": "#634ACC",
         "type": "color"
       },
-      "deepspace-9": {
+      "spacepurple-9": {
         "value": "#5E1EE2",
         "type": "color"
       },
-      "deepspace-10": {
+      "spacepurple-10": {
         "value": "#5200D0",
         "type": "color"
       },
-      "deepspace-11": {
+      "spacepurple-11": {
         "value": "#B2A4FF",
         "type": "color"
       },
-      "deepspace-12": {
+      "spacepurple-12": {
         "value": "#DEDEFF",
         "type": "color"
       }
     },
-    "deepSpace light": {
-      "deepspace-1": {
+    "spacepurple light": {
+      "spacepurple-1": {
         "value": "#FDFDFF",
         "type": "color"
       },
-      "deepspace-2": {
+      "spacepurple-2": {
         "value": "#F8F8FF",
         "type": "color"
       },
-      "deepspace-3": {
+      "spacepurple-3": {
         "value": "#F0F0FF",
         "type": "color"
       },
-      "deepspace-4": {
+      "spacepurple-4": {
         "value": "#E6E6FF",
         "type": "color"
       },
-      "deepspace-5": {
+      "spacepurple-5": {
         "value": "#DBDAFF",
         "type": "color"
       },
-      "deepspace-6": {
+      "spacepurple-6": {
         "value": "#CDCAFF",
         "type": "color"
       },
-      "deepspace-7": {
+      "spacepurple-7": {
         "value": "#BAB4FF",
         "type": "color"
       },
-      "deepspace-8": {
+      "spacepurple-8": {
         "value": "#A095FF",
         "type": "color"
       },
-      "deepspace-9": {
+      "spacepurple-9": {
         "value": "#5E1EE2",
         "type": "color"
       },
-      "deepspace-10": {
+      "spacepurple-10": {
         "value": "#5200D0",
         "type": "color"
       },
-      "deepspace-11": {
+      "spacepurple-11": {
         "value": "#6539E4",
         "type": "color"
       },
-      "deepspace-12": {
+      "spacepurple-12": {
         "value": "#301C72",
         "type": "color"
       }
     },
-    "deepSun light": {
-      "deepspace-1": {
+    "spacesun light": {
+      "spacesun-1": {
         "value": "#FEFDFA",
         "type": "color"
       },
-      "deepspace-2": {
+      "spacesun-2": {
         "value": "#FFFBE8",
         "type": "color"
       },
-      "deepspace-3": {
+      "spacesun-3": {
         "value": "#FFF5CD",
         "type": "color"
       },
-      "deepspace-4": {
+      "spacesun-4": {
         "value": "#FFECA8",
         "type": "color"
       },
-      "deepspace-5": {
+      "spacesun-5": {
         "value": "#FFE277",
         "type": "color"
       },
-      "deepspace-6": {
+      "spacesun-6": {
         "value": "#F8D46B",
         "type": "color"
       },
-      "deepspace-7": {
+      "spacesun-7": {
         "value": "#E6C462",
         "type": "color"
       },
-      "deepspace-8": {
+      "spacesun-8": {
         "value": "#D3AD30",
         "type": "color"
       },
-      "deepspace-9": {
+      "spacesun-9": {
         "value": "#FFD200",
         "type": "color"
       },
-      "deepspace-10": {
+      "spacesun-10": {
         "value": "#FBC900",
         "type": "color"
       },
-      "deepspace-11": {
+      "spacesun-11": {
         "value": "#e6b800",
         "type": "color"
       },
-      "deepspace-12": {
+      "spacesun-12": {
         "value": "#cca300",
         "type": "color"
       }
     },
-    "deepSun": {
-      "deepspace-1": {
+    "spacesun": {
+      "spacesun-1": {
         "value": "#13110B",
         "type": "color"
       },
-      "deepspace-2": {
+      "spacesun-2": {
         "value": "#1B180F",
         "type": "color"
       },
-      "deepspace-3": {
+      "spacesun-3": {
         "value": "#2B2206",
         "type": "color"
       },
-      "deepspace-4": {
+      "spacesun-4": {
         "value": "#3A2A00",
         "type": "color"
       },
-      "deepspace-5": {
+      "spacesun-5": {
         "value": "#463400",
         "type": "color"
       },
-      "deepspace-6": {
+      "spacesun-6": {
         "value": "#544200",
         "type": "color"
       },
-      "deepspace-7": {
+      "spacesun-7": {
         "value": "#675414",
         "type": "color"
       },
-      "deepspace-8": {
+      "spacesun-8": {
         "value": "#836B1D",
         "type": "color"
       },
-      "deepspace-9": {
+      "spacesun-9": {
         "value": "#FFCD00",
         "type": "color"
       },
-      "deepspace-10": {
+      "spacesun-10": {
         "value": "#F5C300",
         "type": "color"
       },
-      "deepspace-11": {
+      "spacesun-11": {
         "value": "#FFCF0D",
         "type": "color"
       },
-      "deepspace-12": {
+      "spacesun-12": {
         "value": "#FCE9B2",
         "type": "color"
       }

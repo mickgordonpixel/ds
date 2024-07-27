@@ -9,11 +9,11 @@
       },
       "accent": {
         "normal": {
-          "value": "{Colors.deepSpace light.deepspace-9}",
+          "value": "{Colors.spacesun light.deepspace-9}",
           "type": "color"
         },
         "hover": {
-          "value": "#",
+          "value": "{Colors.spacesun light.deepspace-11}",
           "type": "color"
         },
         "subtle": {
@@ -33,7 +33,7 @@
           "type": "color"
         },
         "disabled": {
-          "value": "{Colors.deepSun light.deepspace-4}",
+          "value": "{Colors.spacesun light.deepspace-4}",
           "type": "color"
         },
         "muted": {
@@ -243,7 +243,7 @@
           "type": "color"
         },
         "emphasis": {
-          "value": "{Colors.deepSun light.deepspace-11}",
+          "value": "{Colors.spacesun light.deepspace-11}",
           "type": "color"
         },
         "disabled": {
@@ -420,7 +420,7 @@
     },
     "text": {
       "body": {
-        "value": "{Colors.deepSpace light.deepspace-1}",
+        "value": "{Colors.spacepurple light.deepspace-1}",
         "type": "color"
       },
       "secondary": {
