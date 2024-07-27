@@ -33,7 +33,7 @@
           "type": "color"
         },
         "disabled": {
-          "value": "#",
+          "value": "{Colors.deepSun light.deepspace-4}",
           "type": "color"
         },
         "muted": {
