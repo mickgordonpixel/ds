@@ -5,7 +5,6 @@
     "typographyAlias/baseFontFamily",
     "typographyAlias/xtreme",
     "typographyAlias/spacecasino",
-    "alias/spacecasino",
-    "alias/xtreme"
+    "alias/spacecasino"
   ]
 }
