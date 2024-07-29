@@ -8,7 +8,7 @@
         }
       },
       "primary": {
-        "normal": {
+        "rest": {
           "value": "{Colors.spacesun light.spacesun-9}",
           "type": "color"
         },
@@ -20,24 +20,12 @@
           "value": "{Colors.spacesun light.spacesun-11}",
           "type": "color"
         },
+        "disabled": {
+          "value": "{Colors.spacesun light.spacesun-4}",
+          "type": "color"
+        },
         "subtle": {
-          "value": "#",
-          "type": "color"
-        },
-        "subtle hover": {
-          "value": "#",
-          "type": "color"
-        },
-        "focus": {
-          "value": "#",
-          "type": "color"
-        },
-        "active": {
-          "value": "#",
-          "type": "color"
-        },
-        "muted": {
-          "value": "#",
+          "value": "{Colors.spacesun light.spacesun-3}",
           "type": "color"
         }
       },
@@ -64,41 +52,29 @@
         }
       },
       "secondary": {
+        "rest": {
+          "value": "{Colors.spacepurple light.spacepurple-9}",
+          "type": "color"
+        },
         "hover": {
-          "value": "#",
+          "value": "{Colors.spacepurple light.spacepurple-10}",
           "type": "color"
         },
         "pressed": {
-          "value": "#",
+          "value": "{Colors.spacepurple light.spacepurple-11}",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "{Colors.spacepurple light.spacepurple-4}",
           "type": "color"
         },
         "subtle": {
-          "value": "#",
-          "type": "color"
-        },
-        "subtle hover": {
-          "value": "#",
-          "type": "color"
-        },
-        "focus": {
-          "value": "#",
-          "type": "color"
-        },
-        "active": {
-          "value": "#",
-          "type": "color"
-        },
-        "muted": {
-          "value": "#",
-          "type": "color"
-        },
-        "normal": {
-          "value": "{Colors.spacepurple light.spacepurple-9}",
+          "value": "{Colors.spacepurple light.spacepurple-5}",
           "type": "color"
         }
       },
       "input": {
-        "normal": {
+        "rest": {
           "value": "#",
           "type": "color"
         },
@@ -116,7 +92,7 @@
         }
       },
       "success": {
-        "normal": {
+        "rest": {
           "value": "{Colors.green light.green light-10}",
           "type": "color"
         },
@@ -130,7 +106,7 @@
         }
       },
       "warning": {
-        "normal": {
+        "rest": {
           "value": "{Colors.orange light.orange light-9}",
           "type": "color"
         },
@@ -144,7 +120,7 @@
         }
       },
       "error": {
-        "normal": {
+        "rest": {
           "value": "{Colors.red light.red light-9}",
           "type": "color"
         },
@@ -185,12 +161,12 @@
         "value": "#",
         "type": "color"
       },
-      "inactive": {
-        "value": "#",
+      "disabled": {
+        "value": "{Colors.gray light.gray light-7}",
         "type": "color"
       },
       "input": {
-        "normal": {
+        "rest": {
           "value": "#",
           "type": "color"
         },
@@ -208,8 +184,12 @@
         }
       },
       "primary": {
-        "normal": {
-          "value": "#",
+        "rest": {
+          "value": "{Colors.spacesun light.spacesun-9}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{Colors.spacesun light.spacesun-10}",
           "type": "color"
         },
         "emphasis": {
@@ -219,19 +199,31 @@
         "disabled": {
           "value": "#",
           "type": "color"
+        },
+        "pressed": {
+          "value": "{Colors.spacesun light.spacesun-11}",
+          "type": "color"
         }
       },
       "secondary": {
-        "normal": {
+        "rest": {
           "value": "{Colors.spacepurple light.spacepurple-12}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{Colors.spacepurple light.spacepurple-10}",
           "type": "color"
         },
         "emphasis": {
-          "value": "{Colors.spacepurple light.spacepurple-9}",
+          "value": "{Colors.spacepurple light.spacepurple-12}",
+          "type": "color"
+        },
+        "pressed": {
+          "value": "{Colors.spacepurple light.spacepurple-11}",
           "type": "color"
         },
         "disabled": {
-          "value": "{Colors.spacepurple light.spacepurple-12}",
+          "value": "{Colors.spacepurple light.spacepurple-2}",
           "type": "color"
         }
       },
@@ -320,7 +312,7 @@
         "type": "color"
       },
       "accent": {
-        "normal": {
+        "rest": {
           "value": "#",
           "type": "color"
         },
@@ -342,8 +334,8 @@
         }
       },
       "primary": {
-        "normal": {
-          "value": "#",
+        "rest": {
+          "value": "{Colors.spacesun light.spacesun-9}",
           "type": "color"
         },
         "hover": {
@@ -364,7 +356,7 @@
         }
       },
       "secondary": {
-        "normal": {
+        "rest": {
           "value": "#",
           "type": "color"
         },
@@ -393,7 +385,39 @@
       },
       "secondary": {
         "value": "#",
-        "type": "color"
+        "type": "color",
+        "rest": {
+          "value": "#",
+          "type": "color"
+        },
+        "hover": {
+          "value": "#",
+          "type": "color"
+        },
+        "pressed": {
+          "value": "#",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "#",
+          "type": "color"
+        },
+        "emphasis": {
+          "value": "#",
+          "type": "color"
+        },
+        "link": {
+          "value": "#",
+          "type": "color"
+        },
+        "linkhover": {
+          "value": "#",
+          "type": "color"
+        },
+        "focus": {
+          "value": "#",
+          "type": "color"
+        }
       },
       "subtle": {
         "value": "#",
@@ -450,11 +474,79 @@
         }
       },
       "input": {
-        "normal": {
+        "rest": {
           "value": "#",
           "type": "color"
         },
         "hover": {
+          "value": "#",
+          "type": "color"
+        },
+        "focus": {
+          "value": "#",
+          "type": "color"
+        }
+      },
+      "primary": {
+        "rest": {
+          "value": "#",
+          "type": "color"
+        },
+        "hover": {
+          "value": "#",
+          "type": "color"
+        },
+        "pressed": {
+          "value": "#",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "#",
+          "type": "color"
+        },
+        "emphasis": {
+          "value": "#",
+          "type": "color"
+        },
+        "link": {
+          "value": "#",
+          "type": "color"
+        },
+        "linkhover": {
+          "value": "#",
+          "type": "color"
+        },
+        "focus": {
+          "value": "#",
+          "type": "color"
+        }
+      },
+      "primary-copy": {
+        "rest": {
+          "value": "#",
+          "type": "color"
+        },
+        "hover": {
+          "value": "#",
+          "type": "color"
+        },
+        "pressed": {
+          "value": "#",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "#",
+          "type": "color"
+        },
+        "emphasis": {
+          "value": "#",
+          "type": "color"
+        },
+        "link": {
+          "value": "#",
+          "type": "color"
+        },
+        "linkhover": {
           "value": "#",
           "type": "color"
         },
