@@ -207,7 +207,7 @@
       },
       "secondary": {
         "rest": {
-          "value": "{Colors.spacepurple light.spacepurple-12}",
+          "value": "{Colors.spacepurple light.spacepurple-9}",
           "type": "color"
         },
         "hover": {
@@ -233,7 +233,7 @@
           "type": "color"
         },
         "success-emphasis": {
-          "value": "{Colors.green light.green light-8}",
+          "value": "{Colors.green light.green light-12}",
           "type": "color"
         },
         "warning": {
@@ -241,7 +241,7 @@
           "type": "color"
         },
         "warning-emphasis": {
-          "value": "{Colors.orange light.orange light-8}",
+          "value": "{Colors.orange light.orange light-12}",
           "type": "color"
         },
         "error": {
@@ -249,7 +249,7 @@
           "type": "color"
         },
         "error-emphasis": {
-          "value": "{Colors.red light.red light-8}",
+          "value": "{Colors.red light.red light-12}",
           "type": "color"
         },
         "info": {
@@ -357,7 +357,7 @@
       },
       "secondary": {
         "rest": {
-          "value": "#",
+          "value": "{Colors.spacepurple light.spacepurple-9}",
           "type": "color"
         },
         "hover": {
@@ -487,35 +487,35 @@
       },
       "secondary": {
         "rest": {
-          "value": "#",
+          "value": "{Colors.spacepurple light.spacepurple-9}",
           "type": "color"
         },
         "hover": {
-          "value": "#",
+          "value": "{Colors.spacepurple light.spacepurple-11}",
           "type": "color"
         },
         "pressed": {
-          "value": "#",
+          "value": "{Colors.spacepurple light.spacepurple-10}",
           "type": "color"
         },
         "disabled": {
-          "value": "#",
+          "value": "{Colors.spacepurple light.spacepurple-6}",
           "type": "color"
         },
         "emphasis": {
-          "value": "#",
+          "value": "{Colors.spacepurple light.spacepurple-9}",
           "type": "color"
         },
         "link": {
-          "value": "#",
+          "value": "{Colors.spacepurple light.spacepurple-8}",
           "type": "color"
         },
         "linkhover": {
-          "value": "#",
+          "value": "{Colors.spacepurple light.spacepurple-7}",
           "type": "color"
         },
         "focus": {
-          "value": "#",
+          "value": "{Colors.spacepurple light.spacepurple-9}",
           "type": "color"
         }
       }
