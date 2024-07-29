@@ -69,7 +69,7 @@
           "type": "color"
         },
         "subtle": {
-          "value": "{Colors.spacepurple light.spacepurple-5}",
+          "value": "{Colors.spacepurple light.spacepurple-3}",
           "type": "color"
         }
       },
@@ -149,7 +149,7 @@
       }
     },
     "border": {
-      "container": {
+      "rest": {
         "value": "#",
         "type": "color"
       },
@@ -161,8 +161,16 @@
         "value": "#",
         "type": "color"
       },
+      "container": {
+        "value": "#",
+        "type": "color"
+      },
       "disabled": {
         "value": "{Colors.gray light.gray light-7}",
+        "type": "color"
+      },
+      "focus": {
+        "value": "{Colors.blue light.blue light-10}",
         "type": "color"
       },
       "input": {
@@ -339,7 +347,7 @@
           "type": "color"
         },
         "hover": {
-          "value": "#",
+          "value": "{Colors.spacesun light.spacesun-10}",
           "type": "color"
         },
         "focus": {
@@ -361,7 +369,7 @@
           "type": "color"
         },
         "hover": {
-          "value": "#",
+          "value": "{Colors.spacepurple light.spacepurple-10}",
           "type": "color"
         },
         "focus": {
@@ -453,35 +461,35 @@
       },
       "primary": {
         "rest": {
-          "value": "#",
+          "value": "{Colors.spacesun light.spacesun-9}",
           "type": "color"
         },
         "hover": {
-          "value": "#",
+          "value": "{Colors.spacesun light.spacesun-10}",
           "type": "color"
         },
         "pressed": {
-          "value": "#",
+          "value": "{Colors.spacesun light.spacesun-11}",
           "type": "color"
         },
         "disabled": {
-          "value": "#",
+          "value": "{Colors.spacesun light.spacesun-6}",
           "type": "color"
         },
         "emphasis": {
-          "value": "#",
+          "value": "{Colors.spacesun light.spacesun-9}",
           "type": "color"
         },
         "link": {
-          "value": "#",
+          "value": "{Colors.spacesun light.spacesun-8}",
           "type": "color"
         },
         "linkhover": {
-          "value": "#",
+          "value": "{Colors.spacesun light.spacesun-8}",
           "type": "color"
         },
         "focus": {
-          "value": "#",
+          "value": "{Colors.spacesun light.spacesun-8}",
           "type": "color"
         }
       },
@@ -491,11 +499,11 @@
           "type": "color"
         },
         "hover": {
-          "value": "{Colors.spacepurple light.spacepurple-11}",
+          "value": "{Colors.spacepurple light.spacepurple-10}",
           "type": "color"
         },
         "pressed": {
-          "value": "{Colors.spacepurple light.spacepurple-10}",
+          "value": "{Colors.spacepurple light.spacepurple-11}",
           "type": "color"
         },
         "disabled": {
