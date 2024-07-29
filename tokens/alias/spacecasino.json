@@ -383,42 +383,6 @@
         "value": "{Colors.gray light.gray light-12}",
         "type": "color"
       },
-      "secondary": {
-        "value": "#",
-        "type": "color",
-        "rest": {
-          "value": "#",
-          "type": "color"
-        },
-        "hover": {
-          "value": "#",
-          "type": "color"
-        },
-        "pressed": {
-          "value": "#",
-          "type": "color"
-        },
-        "disabled": {
-          "value": "#",
-          "type": "color"
-        },
-        "emphasis": {
-          "value": "#",
-          "type": "color"
-        },
-        "link": {
-          "value": "#",
-          "type": "color"
-        },
-        "linkhover": {
-          "value": "#",
-          "type": "color"
-        },
-        "focus": {
-          "value": "#",
-          "type": "color"
-        }
-      },
       "subtle": {
         "value": "#",
         "type": "color"
@@ -521,7 +485,7 @@
           "type": "color"
         }
       },
-      "primary-copy": {
+      "secondary": {
         "rest": {
           "value": "#",
           "type": "color"
