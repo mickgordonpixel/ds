@@ -283,8 +283,8 @@
       }
     },
     "icon": {
-      "default": {
-        "value": "{colors.grayLight.12}",
+      "on-primary": {
+        "value": "{colors.grayLight.1}",
         "type": "color"
       },
       "muted": {
@@ -315,8 +315,8 @@
         "value": "#",
         "type": "color"
       },
-      "on accent": {
-        "value": "{colors.grayLight.1}",
+      "on-secondary": {
+        "value": "{colors.grayLight.12}",
         "type": "color"
       },
       "success": {
@@ -370,8 +370,8 @@
           "value": "#",
           "type": "color"
         },
-        "active": {
-          "value": "#",
+        "pressed": {
+          "value": "{colors.spacepurpleLight.11}",
           "type": "color"
         },
         "disabled": {
@@ -431,11 +431,11 @@
         "value": "#",
         "type": "color"
       },
-      "on accent": {
+      "on-primary": {
         "value": "{colors.grayLight.1}",
         "type": "color"
       },
-      "on primary": {
+      "on-secondary": {
         "value": "{colors.grayLight.12}",
         "type": "color"
       },
@@ -1178,7 +1178,7 @@
           "fontFamily": "{fontFamilies.gtWalsheimPro}",
           "fontWeight": "{fontWeights.gtWalsheimPro-regular}",
           "fontSize": "{fontSize.14px}",
-          "lineHeight": "{lineHeights.16px}",
+          "lineHeight": "{lineHeights.16}",
           "letterSpacing": "{letterspacing.0}"
         },
         "type": "typography"
@@ -1188,7 +1188,7 @@
           "fontFamily": "{fontFamilies.gtWalsheimPro}",
           "fontWeight": "{fontWeights.gtWalsheimPro-medium}",
           "fontSize": "{fontSize.14px}",
-          "lineHeight": "{lineHeights.16px}",
+          "lineHeight": "{lineHeights.16}",
           "letterSpacing": "{letterspacing.0}"
         },
         "type": "typography"
@@ -1198,7 +1198,7 @@
           "fontFamily": "{fontFamilies.gtWalsheimPro}",
           "fontWeight": "{fontWeights.gtWalsheimPro-semibold}",
           "fontSize": "{fontSize.14px}",
-          "lineHeight": "{lineHeights.16px}",
+          "lineHeight": "{lineHeights.16}",
           "letterSpacing": "{letterspacing.0}"
         },
         "type": "typography"
@@ -1210,7 +1210,7 @@
           "fontFamily": "{fontFamilies.gtWalsheimPro}",
           "fontWeight": "{fontWeights.gtWalsheimPro-regular}",
           "fontSize": "{fontSize.12px}",
-          "lineHeight": "{lineHeights.16px}",
+          "lineHeight": "{lineHeights.16}",
           "letterSpacing": "{letterspacing.0}"
         },
         "type": "typography"
@@ -1220,7 +1220,7 @@
           "fontFamily": "{fontFamilies.gtWalsheimPro}",
           "fontWeight": "{fontWeights.gtWalsheimPro-medium}",
           "fontSize": "{fontSize.12px}",
-          "lineHeight": "{lineHeights.16px}",
+          "lineHeight": "{lineHeights.16}",
           "letterSpacing": "{letterspacing.0}"
         },
         "type": "typography"
@@ -1230,7 +1230,7 @@
           "fontFamily": "{fontFamilies.gtWalsheimPro}",
           "fontWeight": "{fontWeights.gtWalsheimPro-semibold}",
           "fontSize": "{fontSize.12px}",
-          "lineHeight": "{lineHeights.16px}",
+          "lineHeight": "{lineHeights.16}",
           "letterSpacing": "{letterspacing.0}"
         },
         "type": "typography"

@@ -6,48 +6,48 @@
     }
   },
   "lineHeights": {
-    "16px": {
-      "value": "16",
+    "16": {
+      "value": "16px",
       "type": "lineHeights"
     },
-    "18px": {
-      "value": "18",
+    "18": {
+      "value": "18px",
       "type": "lineHeights"
     },
-    "20px": {
-      "value": "20",
+    "20": {
+      "value": "20px",
       "type": "lineHeights"
     },
-    "24px": {
-      "value": "24",
+    "24": {
+      "value": "24px",
       "type": "lineHeights"
     },
-    "28px": {
-      "value": "28",
+    "28": {
+      "value": "28px",
       "type": "lineHeights"
     },
-    "32px": {
-      "value": "32",
+    "32": {
+      "value": "32px",
       "type": "lineHeights"
     },
-    "36px": {
-      "value": "36",
+    "36": {
+      "value": "36px",
       "type": "lineHeights"
     },
-    "40px": {
-      "value": "40",
+    "40": {
+      "value": "40px",
       "type": "lineHeights"
     },
-    "48px": {
-      "value": "48",
+    "48": {
+      "value": "48px",
       "type": "lineHeights"
     },
-    "56px": {
-      "value": "56",
+    "56": {
+      "value": "56px",
       "type": "lineHeights"
     },
-    "68px": {
-      "value": "68",
+    "68": {
+      "value": "68px",
       "type": "lineHeights"
     }
   },
@@ -86,52 +86,52 @@
     }
   },
   "fontSize": {
-    "12px": {
-      "value": "12",
+    "12": {
+      "value": "12px",
       "type": "fontSizes"
     },
-    "14px": {
-      "value": "14",
+    "14": {
+      "value": "14px",
       "type": "fontSizes"
     },
-    "16px": {
-      "value": "16",
+    "16": {
+      "value": "16px",
       "type": "fontSizes"
     },
-    "18px": {
-      "value": "18",
+    "18": {
+      "value": "18px",
       "type": "fontSizes"
     },
-    "20px": {
-      "value": "20",
+    "20": {
+      "value": "20px",
       "type": "fontSizes"
     },
-    "24px": {
-      "value": "24",
+    "24": {
+      "value": "24px",
       "type": "fontSizes"
     },
-    "28px": {
-      "value": "28",
+    "28": {
+      "value": "28px",
       "type": "fontSizes"
     },
-    "32px": {
-      "value": "32",
+    "32": {
+      "value": "32px",
       "type": "fontSizes"
     },
-    "40px": {
-      "value": "40",
+    "40": {
+      "value": "40px",
       "type": "fontSizes"
     },
-    "44px": {
-      "value": "44",
+    "44": {
+      "value": "44px",
       "type": "fontSizes"
     },
-    "52px": {
-      "value": "52",
+    "52": {
+      "value": "52px",
       "type": "fontSizes"
     },
-    "64px": {
-      "value": "64",
+    "64": {
+      "value": "64px",
       "type": "fontSizes"
     }
   },
