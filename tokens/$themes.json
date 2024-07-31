@@ -60,7 +60,6 @@
       "theme.border.status.info": "6a418d54d6d076a14c562fbb95f05289b7aa5e27",
       "theme.icon.muted": "613df587cb50357cd9aaa1da8feb9be524083eb8",
       "theme.icon.neutral": "9950a68d6d871043ed9ec4a9e481a6ed528bb79c",
-      "theme.icon.on subtle": "4d188e768112451d94ecad1c742b5c3e41a5792d",
       "theme.icon.on invert": "57d069c93253469fc1fb875022d2c0c99a84c10a",
       "theme.icon.on image": "dfa15468000507a695958aff9dbb80d51eed827e",
       "theme.icon.on input": "2c8a61b7099e755e86543826247f35498dfac40e",
@@ -159,7 +158,8 @@
       "theme.text.on-primary": "6d0a09fcdd29809452e629d5259d65919a7fdbde",
       "theme.icon.on-secondary": "4199ed5de6425a9eee3875ae5e721d6e73c5f819",
       "theme.icon.on-primary": "c5259f1a3a2204b665cb7db2586b0d2065bfefb8",
-      "theme.icon.primary.pressed": "5064acefb04d36a3c679151ed3070531c0098627"
+      "theme.icon.primary.pressed": "5064acefb04d36a3c679151ed3070531c0098627",
+      "theme.icon.onSubtle": "4d188e768112451d94ecad1c742b5c3e41a5792d"
     }
   },
   {
@@ -203,14 +203,12 @@
       "theme.border.status.info": "6a418d54d6d076a14c562fbb95f05289b7aa5e27",
       "theme.icon.muted": "613df587cb50357cd9aaa1da8feb9be524083eb8",
       "theme.icon.neutral": "9950a68d6d871043ed9ec4a9e481a6ed528bb79c",
-      "theme.icon.on subtle": "4d188e768112451d94ecad1c742b5c3e41a5792d",
       "theme.icon.on invert": "57d069c93253469fc1fb875022d2c0c99a84c10a",
       "theme.icon.on image": "dfa15468000507a695958aff9dbb80d51eed827e",
       "theme.icon.on input": "2c8a61b7099e755e86543826247f35498dfac40e",
       "theme.icon.success": "1053cd7149d02f2c5cd1579cd5b66105e4c36e12",
       "theme.icon.warning": "6a0911f7b285f609ff765d4035e64014638e2d56",
       "theme.icon.error": "c94c4c43616880598efdfa9cbaf505692176d306",
-      "theme.icon.focus": "2fd0753cdbceac4899cd71f0e679d37f806d4df7",
       "theme.icon.accent.hover": "44a3c12f60f6f1b028c543eb40dbd2f2d009c2a2",
       "theme.icon.accent.focus": "52cdb7faf950706d39080032d83c082e424b6f20",
       "theme.icon.accent.active": "621b5879cee5b8e4ac2de95f8e65706079b94cd9",
@@ -297,9 +295,9 @@
       "theme.icon.primary.rest": "2bc6dccb08ee871a05e7b3dee4013203f7df8fd1",
       "theme.text.on-secondary": "139fef763917ea1fedcc906a8a14ad3e6bf94804",
       "theme.text.on-primary": "6d0a09fcdd29809452e629d5259d65919a7fdbde",
-      "theme.icon.on-secondary": "4199ed5de6425a9eee3875ae5e721d6e73c5f819",
       "theme.icon.on-primary": "c5259f1a3a2204b665cb7db2586b0d2065bfefb8",
-      "theme.icon.primary.pressed": "5064acefb04d36a3c679151ed3070531c0098627"
+      "theme.icon.primary.pressed": "5064acefb04d36a3c679151ed3070531c0098627",
+      "theme.icon.onSubtle": "4d188e768112451d94ecad1c742b5c3e41a5792d"
     }
   },
   {

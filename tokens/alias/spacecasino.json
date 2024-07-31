@@ -158,6 +158,28 @@
           "value": "#",
           "type": "color"
         }
+      },
+      "action": {
+        "active": {
+          "value": "#",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{colors.grayLight.5}",
+          "type": "color"
+        },
+        "pressed": {
+          "value": "{colors.grayLight.8}",
+          "type": "color"
+        },
+        "subtle": {
+          "value": "{colors.spacepurpleLight.3}",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "{colors.grayLight.4}",
+          "type": "color"
+        }
       }
     },
     "border": {
@@ -283,6 +305,10 @@
       }
     },
     "icon": {
+      "neutral": {
+        "value": "{colors.grayLight.12}",
+        "type": "color"
+      },
       "on-primary": {
         "value": "{colors.grayLight.1}",
         "type": "color"
@@ -295,12 +321,8 @@
         "value": "{colors.grayLight.9}",
         "type": "color"
       },
-      "neutral": {
-        "value": "#",
-        "type": "color"
-      },
-      "on subtle": {
-        "value": "#",
+      "onSubtle": {
+        "value": "{colors.grayLight.11}",
         "type": "color"
       },
       "on invert": {
@@ -315,10 +337,6 @@
         "value": "#",
         "type": "color"
       },
-      "on-secondary": {
-        "value": "{colors.grayLight.12}",
-        "type": "color"
-      },
       "success": {
         "value": "{colors.greenLight.10}",
         "type": "color"
@@ -330,32 +348,6 @@
       "error": {
         "value": "{colors.redLight.9}",
         "type": "color"
-      },
-      "focus": {
-        "value": "#",
-        "type": "color"
-      },
-      "accent": {
-        "rest": {
-          "value": "#",
-          "type": "color"
-        },
-        "hover": {
-          "value": "#",
-          "type": "color"
-        },
-        "focus": {
-          "value": "#",
-          "type": "color"
-        },
-        "active": {
-          "value": "#",
-          "type": "color"
-        },
-        "disabled": {
-          "value": "#",
-          "type": "color"
-        }
       },
       "primary": {
         "rest": {
