@@ -165,11 +165,11 @@
           "type": "color"
         },
         "hover": {
-          "value": "{colors.grayLight.5}",
+          "value": "{colors.grayLight.4}",
           "type": "color"
         },
         "pressed": {
-          "value": "{colors.grayLight.7}",
+          "value": "{colors.grayLight.5}",
           "type": "color"
         },
         "subtle": {
@@ -437,7 +437,7 @@
       },
       "status": {
         "success": {
-          "value": "{colors.greenLight.10}",
+          "value": "{colors.greenLight.11}",
           "type": "color"
         },
         "warning": {
