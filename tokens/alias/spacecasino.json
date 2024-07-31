@@ -169,7 +169,7 @@
           "type": "color"
         },
         "pressed": {
-          "value": "{colors.grayLight.8}",
+          "value": "{colors.grayLight.7}",
           "type": "color"
         },
         "subtle": {
